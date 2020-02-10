@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 51c34c1aa3f21b948a4039f0cfd50f6c
+timeCreated: 1519517349
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_010
+    100012: Cube_011
+    100014: Cube_013
+    100016: Cylinder
+    100018: Cylinder_001
+    100020: //RootNode
+    100022: komp_klava
+    100024: obj_01
+    100026: Pantalla
+    100028: Pantalla_002
+    100030: Tapa
+    100032: Tapa_001
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_010
+    400012: Cube_011
+    400014: Cube_013
+    400016: Cylinder
+    400018: Cylinder_001
+    400020: //RootNode
+    400022: komp_klava
+    400024: obj_01
+    400026: Pantalla
+    400028: Pantalla_002
+    400030: Tapa
+    400032: Tapa_001
+    2100000: Material_016
+    2100002: Material_019
+    2100004: Material_005
+    2100006: Material_009
+    2100008: Material
+    2100010: Material_007
+    2100012: Material_006
+    2100014: Material_018
+    2100016: Material_004
+    2100018: Material_008__BlenderFREE_jpg
+    2100020: Material_002
+    2100022: Material_003
+    2100024: Material_014
+    2100026: Material_012__BlenderFREE_jpg_002
+    2100028: Material_015
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_010
+    2300012: Cube_011
+    2300014: Cube_013
+    2300016: Cylinder
+    2300018: Cylinder_001
+    2300020: komp_klava
+    2300022: obj_01
+    2300024: Pantalla
+    2300026: Pantalla_002
+    2300028: Tapa
+    2300030: Tapa_001
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_010
+    3300012: Cube_011
+    3300014: Cube_013
+    3300016: Cylinder
+    3300018: Cylinder_001
+    3300020: komp_klava
+    3300022: obj_01
+    3300024: Pantalla
+    3300026: Pantalla_002
+    3300028: Tapa
+    3300030: Tapa_001
+    4300000: Cube_003
+    4300002: obj_01
+    4300004: Cube_011
+    4300006: Cylinder
+    4300008: Cube_013
+    4300010: Cube_010
+    4300012: komp_klava
+    4300014: Cube
+    4300016: Tapa
+    4300018: Pantalla
+    4300020: Cube_001
+    4300022: Cube_002
+    4300024: Cylinder_001
+    4300026: Tapa_001
+    4300028: Pantalla_002
+    4300030: Cube_004
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9321d36b9b839c6448b65cc0511718e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: f21b2fc36fd464148a8532d6ea900998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 71d55dda2cb0d00408a83d819e331c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 29ca094a36455da4da78e6926cd2eed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: 326c39fbfbb3e3b43b47663f5bb04d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: f69a34f5bd14cb4448235b7de2603d13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: cfbfb38d7d8e44d43a8951dc73957873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008__BlenderFREE_jpg
+    second: {fileID: 2100000, guid: 61be5adb2595cde4e81179a13e780191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: f2c8c0d36ca11a84ca741b011178ea9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012__BlenderFREE_jpg_002
+    second: {fileID: 2100000, guid: 82c52fe881c48c2449c442caa4492dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: 7fd96a542582bda4e86c63ed40e21e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: 3316cff7e2f2b02469509c8b45563d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: 148e63fe191c825429d1820c98b9fade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: 854772fe90d925741a50ee4083b0a1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: 237694991292ab3488721285a021def0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

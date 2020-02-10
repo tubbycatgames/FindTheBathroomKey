@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 96104267b50d7ee41b4fcab3b533926f
+timeCreated: 1519535627
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_003
+    100004: Cube_004
+    100006: Cube_013
+    100008: Cube_014
+    100010: Cube_015
+    100012: Cube_016
+    100014: Cube_017
+    100016: Cube_018
+    100018: Cube_019
+    100020: Cube_020
+    100022: Cube_021
+    100024: Cube_022
+    100026: Cube_Door
+    100028: Cube_Door_top
+    100030: Cylinder
+    100032: Cylinder_001
+    100034: Cylinder_002
+    100036: Cylinder_003
+    100038: Cylinder_004
+    100040: Cylinder_005
+    100042: Cylinder_006
+    100044: Cylinder_007
+    100046: Cylinder_008
+    100048: //RootNode
+    100050: IMG_20180212_123032665
+    100052: IMG_20180212_123044033
+    100054: IMG_20180212_123049745
+    100056: Plane
+    100058: Plane_001
+    400000: Cube
+    400002: Cube_003
+    400004: Cube_004
+    400006: Cube_013
+    400008: Cube_014
+    400010: Cube_015
+    400012: Cube_016
+    400014: Cube_017
+    400016: Cube_018
+    400018: Cube_019
+    400020: Cube_020
+    400022: Cube_021
+    400024: Cube_022
+    400026: Cube_Door
+    400028: Cube_Door_top
+    400030: Cylinder
+    400032: Cylinder_001
+    400034: Cylinder_002
+    400036: Cylinder_003
+    400038: Cylinder_004
+    400040: Cylinder_005
+    400042: Cylinder_006
+    400044: Cylinder_007
+    400046: Cylinder_008
+    400048: //RootNode
+    400050: IMG_20180212_123032665
+    400052: IMG_20180212_123044033
+    400054: IMG_20180212_123049745
+    400056: Plane
+    400058: Plane_001
+    2100000: IMG_20180212_123049745__IMG_20180212_123049745_jpg
+    2100002: IMG_20180212_123044033__IMG_20180212_123044033_jpg
+    2100004: IMG_20180212_123032665__IMG_20180212_123032665_jpg
+    2100006: Material_001
+    2100008: Material
+    2100010: metal_menos_banco
+    2100012: metal_branco
+    2100014: parede
+    2100016: chao_escuro
+    2100018: borracha
+    2100020: metal_corpo
+    2100022: Material_002
+    2300000: Cube
+    2300002: Cube_003
+    2300004: Cube_004
+    2300006: Cube_013
+    2300008: Cube_014
+    2300010: Cube_015
+    2300012: Cube_016
+    2300014: Cube_017
+    2300016: Cube_018
+    2300018: Cube_019
+    2300020: Cube_020
+    2300022: Cube_021
+    2300024: Cube_022
+    2300026: Cube_Door
+    2300028: Cube_Door_top
+    2300030: Cylinder
+    2300032: Cylinder_001
+    2300034: Cylinder_002
+    2300036: Cylinder_003
+    2300038: Cylinder_004
+    2300040: Cylinder_005
+    2300042: Cylinder_006
+    2300044: Cylinder_007
+    2300046: Cylinder_008
+    2300048: IMG_20180212_123032665
+    2300050: IMG_20180212_123044033
+    2300052: IMG_20180212_123049745
+    2300054: Plane
+    2300056: Plane_001
+    3300000: Cube
+    3300002: Cube_003
+    3300004: Cube_004
+    3300006: Cube_013
+    3300008: Cube_014
+    3300010: Cube_015
+    3300012: Cube_016
+    3300014: Cube_017
+    3300016: Cube_018
+    3300018: Cube_019
+    3300020: Cube_020
+    3300022: Cube_021
+    3300024: Cube_022
+    3300026: Cube_Door
+    3300028: Cube_Door_top
+    3300030: Cylinder
+    3300032: Cylinder_001
+    3300034: Cylinder_002
+    3300036: Cylinder_003
+    3300038: Cylinder_004
+    3300040: Cylinder_005
+    3300042: Cylinder_006
+    3300044: Cylinder_007
+    3300046: Cylinder_008
+    3300048: IMG_20180212_123032665
+    3300050: IMG_20180212_123044033
+    3300052: IMG_20180212_123049745
+    3300054: Plane
+    3300056: Plane_001
+    4300000: IMG_20180212_123049745
+    4300002: IMG_20180212_123044033
+    4300004: IMG_20180212_123032665
+    4300006: Cube_Door
+    4300008: Plane_001
+    4300010: Plane
+    4300012: Cube_022
+    4300014: Cylinder_008
+    4300016: Cylinder_007
+    4300018: Cube_021
+    4300020: Cube_020
+    4300022: Cylinder_006
+    4300024: Cylinder_005
+    4300026: Cylinder_004
+    4300028: Cube_019
+    4300030: Cube_018
+    4300032: Cylinder_003
+    4300034: Cylinder_002
+    4300036: Cube_017
+    4300038: Cube_016
+    4300040: Cylinder_001
+    4300042: Cylinder
+    4300044: Cube_015
+    4300046: Cube_014
+    4300048: Cube_013
+    4300050: Cube
+    4300052: Cube_003
+    4300054: Cube_004
+    4300056: Cube_Door_top
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

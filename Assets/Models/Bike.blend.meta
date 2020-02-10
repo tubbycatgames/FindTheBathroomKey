@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 5ec67e42f01847a458242798929f11fe
+timeCreated: 1519432018
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ChainCurve
+    100004: ChainLinks
+    100006: Chainring
+    100008: ChainringCogs
+    100010: chainringEmpty
+    100012: CogEmpty
+    100014: Crank
+    100016: CrankArmLeft
+    100018: CrankArmRight
+    100020: CrankNuts
+    100022: CranksetEmpty
+    100024: EmptyCamera1
+    100026: EmptyCamera2
+    100028: Fork
+    100030: Frame
+    100032: FrontHub
+    100034: FrontWheel
+    100036: Handlebar
+    100038: MainBearing
+    100040: Mainempty
+    100042: PedalLeft
+    100044: PedalRight
+    100046: RearHub
+    100048: RearTriangle
+    100050: RearWheel
+    100052: Seat
+    100054: SeatPost
+    100056: Spacers
+    100058: SpokeHeadsFront
+    100060: SpokeHeadsRear
+    100062: SpokeNippleFront
+    100064: SpokeNippleRear
+    100066: SpokesFrontEmpty
+    100068: SpokeShape
+    100070: SpokesLeftFront
+    100072: SpokesLeftRear
+    100074: SpokesRearEmpty
+    100076: SpokesRightFront
+    100078: SpokesRightRear
+    100080: Sprocket
+    100082: Stand
+    100084: Stem
+    100086: StemNuts
+    100088: Tape
+    100090: TapeCurve
+    100092: TurningEmpty
+    400000: //RootNode
+    400002: ChainCurve
+    400004: ChainLinks
+    400006: Chainring
+    400008: ChainringCogs
+    400010: chainringEmpty
+    400012: CogEmpty
+    400014: Crank
+    400016: CrankArmLeft
+    400018: CrankArmRight
+    400020: CrankNuts
+    400022: CranksetEmpty
+    400024: EmptyCamera1
+    400026: EmptyCamera2
+    400028: Fork
+    400030: Frame
+    400032: FrontHub
+    400034: FrontWheel
+    400036: Handlebar
+    400038: MainBearing
+    400040: Mainempty
+    400042: PedalLeft
+    400044: PedalRight
+    400046: RearHub
+    400048: RearTriangle
+    400050: RearWheel
+    400052: Seat
+    400054: SeatPost
+    400056: Spacers
+    400058: SpokeHeadsFront
+    400060: SpokeHeadsRear
+    400062: SpokeNippleFront
+    400064: SpokeNippleRear
+    400066: SpokesFrontEmpty
+    400068: SpokeShape
+    400070: SpokesLeftFront
+    400072: SpokesLeftRear
+    400074: SpokesRearEmpty
+    400076: SpokesRightFront
+    400078: SpokesRightRear
+    400080: Sprocket
+    400082: Stand
+    400084: Stem
+    400086: StemNuts
+    400088: Tape
+    400090: TapeCurve
+    400092: TurningEmpty
+    2100000: TireWhite
+    2100002: Valve
+    2100004: TireBlack
+    2100006: Rim_Chrome_Matte
+    2100008: TireLogo
+    2100010: Chrome
+    2100012: DarkMetal
+    2100014: Saddle
+    2100016: HandlebarTape
+    2100018: Red
+    2300000: ChainCurve
+    2300002: ChainLinks
+    2300004: Chainring
+    2300006: ChainringCogs
+    2300008: Crank
+    2300010: CrankArmLeft
+    2300012: CrankArmRight
+    2300014: CrankNuts
+    2300016: Fork
+    2300018: Frame
+    2300020: FrontHub
+    2300022: FrontWheel
+    2300024: Handlebar
+    2300026: MainBearing
+    2300028: PedalLeft
+    2300030: PedalRight
+    2300032: RearHub
+    2300034: RearTriangle
+    2300036: RearWheel
+    2300038: Seat
+    2300040: SeatPost
+    2300042: Spacers
+    2300044: SpokeHeadsFront
+    2300046: SpokeHeadsRear
+    2300048: SpokeNippleFront
+    2300050: SpokeNippleRear
+    2300052: SpokeShape
+    2300054: SpokesLeftFront
+    2300056: SpokesLeftRear
+    2300058: SpokesRightFront
+    2300060: SpokesRightRear
+    2300062: Sprocket
+    2300064: Stand
+    2300066: Stem
+    2300068: StemNuts
+    2300070: Tape
+    2300072: TapeCurve
+    3300000: ChainCurve
+    3300002: ChainLinks
+    3300004: Chainring
+    3300006: ChainringCogs
+    3300008: Crank
+    3300010: CrankArmLeft
+    3300012: CrankArmRight
+    3300014: CrankNuts
+    3300016: Fork
+    3300018: Frame
+    3300020: FrontHub
+    3300022: FrontWheel
+    3300024: Handlebar
+    3300026: MainBearing
+    3300028: PedalLeft
+    3300030: PedalRight
+    3300032: RearHub
+    3300034: RearTriangle
+    3300036: RearWheel
+    3300038: Seat
+    3300040: SeatPost
+    3300042: Spacers
+    3300044: SpokeHeadsFront
+    3300046: SpokeHeadsRear
+    3300048: SpokeNippleFront
+    3300050: SpokeNippleRear
+    3300052: SpokeShape
+    3300054: SpokesLeftFront
+    3300056: SpokesLeftRear
+    3300058: SpokesRightFront
+    3300060: SpokesRightRear
+    3300062: Sprocket
+    3300064: Stand
+    3300066: Stem
+    3300068: StemNuts
+    3300070: Tape
+    3300072: TapeCurve
+    4300000: Stand
+    4300002: FrontWheel
+    4300004: Frame
+    4300006: RearTriangle
+    4300008: PedalLeft
+    4300010: CrankArmLeft
+    4300012: CrankArmRight
+    4300014: Seat
+    4300016: RearWheel
+    4300018: MainBearing
+    4300020: PedalRight
+    4300022: Sprocket
+    4300024: ChainringCogs
+    4300026: CrankNuts
+    4300028: Chainring
+    4300030: Crank
+    4300032: SeatPost
+    4300034: SpokeHeadsRear
+    4300036: RearHub
+    4300038: SpokeNippleRear
+    4300040: SpokesLeftRear
+    4300042: SpokesRightRear
+    4300044: ChainCurve
+    4300046: ChainLinks
+    4300048: Stem
+    4300050: TapeCurve
+    4300052: Tape
+    4300054: StemNuts
+    4300056: Handlebar
+    4300058: Spacers
+    4300060: Fork
+    4300062: FrontHub
+    4300064: SpokeNippleFront
+    4300066: SpokeHeadsFront
+    4300068: SpokeShape
+    4300070: SpokesRightFront
+    4300072: SpokesLeftFront
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: f4c39ba141f3c7c4199f778b50b41d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkMetal
+    second: {fileID: 2100000, guid: fe065fa3744e73148ad74664d9e22a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HandlebarTape
+    second: {fileID: 2100000, guid: 1f87f90bf2e454643b6bde509ea65064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: b531be26cfe133d4892df58093e32226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rim_Chrome_Matte
+    second: {fileID: 2100000, guid: 494437a57e4623540af0bad5f07d4803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saddle
+    second: {fileID: 2100000, guid: 3bdaa24765572264581d9de7adb232a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TireBlack
+    second: {fileID: 2100000, guid: 9ccd758cf723a2146968426c5d9b9749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TireLogo
+    second: {fileID: 2100000, guid: 0fe89748190aa2245ad681a625b877c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TireWhite
+    second: {fileID: 2100000, guid: e245079328130bb4586f4e1ff113d165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Valve
+    second: {fileID: 2100000, guid: f5006c190916ba94e903c1841ad33566, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
